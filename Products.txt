@@ -1,0 +1,15 @@
+Chocolates KitKat 125 50 2.5
+Chocolates Twix 246 100 2.5
+Chocolates Kinder 753 0 1.5
+Chocolates Galaxy 656 50 3
+Fruits Apple 111 198 0.5
+Fruits Orange 112 180 0.5
+Fruits Banana 113 175 0.5
+Electronics iPhone 999 4 10000
+Electronics Laptop 996 15 5000
+Electronics PlayStation 995 8 7500
+Dairy Milk 159 100 1.5
+Dairy Cheese 138 220 0.5
+Books Novel1 540 10 25
+Books Novel2 543 30 150
+Electronics Camera 386 20 1000
